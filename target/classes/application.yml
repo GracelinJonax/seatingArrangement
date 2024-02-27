@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      database: SeatingArrangement
+      port: 27017
+      host: localhost
+      uri: mongodb://localhost:27017/SeatingArrangement
+#logging:
+#  level:
+#    com:
+#      zaxxer:
+#        hikari: DEBUG
