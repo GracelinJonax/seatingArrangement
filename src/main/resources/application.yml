@@ -10,3 +10,11 @@ spring:
 #    com:
 #      zaxxer:
 #        hikari: DEBUG
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            core:
+              MongoTemplate: DEBUG

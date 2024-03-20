@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e97c012-d44f-47d7-af6c-6dff02cbcd14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/010724804cdb220345a5a4969e7a568e9cc01aa9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/025731b319b96ab58348895b653c47c7cd00d7a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/034ac13589eaea44a65e1c100af97eb4634796b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/0630ba1bdb7e9dae8f62db936cf0f4e83b2a2b50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/085150a80590aee3e10d59dd6571e89ba34bf4f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15b5225bae3bbb68c1c7534032a90d10698db251" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/181e38038b075cff5da276d85a5e93862902586b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1ea1f6073f0d26a1f942a9f7cd347c285b0ce315" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f1763f358c257ea3515417352b82b0165647ad1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/421a5d4bf7ea1b2da14147cd801fbe2a65614794" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4707ca1d42166f59c948f885d25ba115c2be273b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fd447192fa61b5999cf6ccf3135949e3266b0ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52b028ba2b346208420a67e14196ae06c019badb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b34891115549a7bd4e4568565e7ad5f1a97a4cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/698a41f650e8415c694568880f698ee6cd982417" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85cb7dca9829a3fc89d1ee33fb41799d8ce32f47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99e1c767a88ddc1683a270b0b115792e079819d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a6d394977cfe1ad5917abc3d4288c070c13ccae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f82cb796fb5c77b162b485853b0dc72a1f3bca8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4a45cda038ba5cd5cc4764db88a9fe16412b87b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b437488f266b8af2df7350cab5539c8de7f09369" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c00a24bf43dd39466b14b60be9da771a4591804c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5ee780f192420d790ae88ab9e136734104d9981" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f667808bbec5aea339868e989d228c0ab8dd0cc6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/faf753d2267bbb18f6c54fa80ea162e00932419d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/1/010724804cdb220345a5a4969e7a568e9cc01aa9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/2/025731b319b96ab58348895b653c47c7cd00d7a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/3/034ac13589eaea44a65e1c100af97eb4634796b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/6/0630ba1bdb7e9dae8f62db936cf0f4e83b2a2b50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/8/085150a80590aee3e10d59dd6571e89ba34bf4f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/15b5225bae3bbb68c1c7534032a90d10698db251" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/8/181e38038b075cff5da276d85a5e93862902586b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/e/1ea1f6073f0d26a1f942a9f7cd347c285b0ce315" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1f1763f358c257ea3515417352b82b0165647ad1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/2/421a5d4bf7ea1b2da14147cd801fbe2a65614794" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/7/4707ca1d42166f59c948f885d25ba115c2be273b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/f/4fd447192fa61b5999cf6ccf3135949e3266b0ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/2/52b028ba2b346208420a67e14196ae06c019badb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/b/5b34891115549a7bd4e4568565e7ad5f1a97a4cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/9/698a41f650e8415c694568880f698ee6cd982417" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/85cb7dca9829a3fc89d1ee33fb41799d8ce32f47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/9/99e1c767a88ddc1683a270b0b115792e079819d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a6d394977cfe1ad5917abc3d4288c070c13ccae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9f82cb796fb5c77b162b485853b0dc72a1f3bca8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/4/a4a45cda038ba5cd5cc4764db88a9fe16412b87b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/4/b437488f266b8af2df7350cab5539c8de7f09369" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c00a24bf43dd39466b14b60be9da771a4591804c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c5ee780f192420d790ae88ab9e136734104d9981" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/6/f667808bbec5aea339868e989d228c0ab8dd0cc6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/a/faf753d2267bbb18f6c54fa80ea162e00932419d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seatingArrangement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/api/seatingArrangementApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/controller/apiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/dto/CompanyDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/dto/GetLayoutDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/dto/LayoutDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/dto/TeamObjectDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/dto/TeamOutputDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/exception/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/model/Allocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/model/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/AllocationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/service/AllocationRepositoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/service/CompanyRepositoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/service/impl/AllocationRepositoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/service/impl/CompanyRepositoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/SeatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/impl/SeatingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/api/seatingArrangementApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/controller/apiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/CompanyDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/GetLayoutDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/LayoutDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/SeatingDto$Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/TeamObjectDto$TeamDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/TeamObjectDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/exception/BadRequestException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/model/Allocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/model/Company$DefaultLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/model/Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/model/Team$TeamInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/model/Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/model/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/AllocationRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/CompanyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/service/AllocationRepositoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/service/CompanyRepositoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/service/impl/AllocationRepositoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/service/impl/CompanyRepositoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/service/SeatingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/service/impl/SeatingServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/Api/seatingArrangementApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/Controller/apiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/Dto/SeatingDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/dto/SeatingDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/Dto/TeamDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/SeatingArrangementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/SeatingArrangementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/Service/Impl/SeatingServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/Service/SeatingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/model/DefaultLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/model/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/model/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/repository/DefaultLayoutRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/repository/Service/DefaultLayoutRepositoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/repository/Service/Impl/DefaultLayoutRepositoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/repository/Service/Impl/TeamRepositoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/service/impl/TeamRepositoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/repository/Service/TeamRepositoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/service/TeamRepositoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingArrangement/repository/TeamRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/TeamRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/seatingArrangement/SeatingArrangementApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/seatingarrangement/SeatingArrangementApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Api/seatingArrangementApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Controller/apiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Dto/SeatingDto$Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Dto/SeatingDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/SeatingDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Dto/TeamDto$Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Dto/TeamDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/SeatingArrangementApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/SeatingArrangementApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Service/Impl/SeatingServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/Service/SeatingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/model/DefaultLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/model/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/repository/DefaultLayoutRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/repository/Service/DefaultLayoutRepositoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/repository/Service/Impl/DefaultLayoutRepositoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/repository/Service/Impl/TeamRepositoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/service/impl/TeamRepositoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/repository/Service/TeamRepositoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/service/TeamRepositoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingArrangement/repository/TeamRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/TeamRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/seatingArrangement/SeatingArrangementApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/seatingarrangement/SeatingArrangementApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dJA2vRQrjMtiWLM9a0uDgJ3evU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SeatingArrangementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/divum/Documents/MyProjects/seatingArrangement&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.seatingarrangement.repository.service.impl" />
+      <recent name="com.example.seatingarrangement.repository.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeatingArrangementApplication">
+    <configuration name="SeatingArrangementApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="seatingArrangement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seatingArrangement.SeatingArrangementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeatingArrangementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="seatingArrangement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seatingarrangement.SeatingArrangementApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.seatingarrangement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SeatingArrangementApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-6e1472a1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e97c012-d44f-47d7-af6c-6dff02cbcd14" name="Changes" comment="" />
+      <created>1709715603751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709715603751</updated>
+      <workItem from="1709715604590" duration="222000" />
+      <workItem from="1709716292782" duration="651000" />
+      <workItem from="1709717200890" duration="609000" />
+      <workItem from="1709786913404" duration="1209000" />
+      <workItem from="1710218760462" duration="3272000" />
+      <workItem from="1710242939892" duration="2438000" />
+      <workItem from="1710302601788" duration="8486000" />
+      <workItem from="1710388036633" duration="599000" />
+      <workItem from="1710418214145" duration="4285000" />
+      <workItem from="1710475678911" duration="15054000" />
+      <workItem from="1710515278188" duration="328000" />
+      <workItem from="1710733661728" duration="18934000" />
+      <workItem from="1710821616318" duration="5515000" />
+      <workItem from="1710842389452" duration="10343000" />
+      <workItem from="1710906759387" duration="11878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/impl/SeatingServiceImpl.java</url>
+          <line>63</line>
+          <properties class="com.example.seatingarrangement.service.impl.SeatingServiceImpl" method="updateLayoutService">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/repository/TeamRepository.java</url>
+          <line>17</line>
+          <properties class="com.example.seatingarrangement.repository.TeamRepository" method="findTeamsByTeamInfo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/impl/SeatingServiceImpl.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/impl/SeatingServiceImpl.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
