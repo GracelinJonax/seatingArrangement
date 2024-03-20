@@ -22,6 +22,11 @@ public class CompanyRepositoryServiceImpl implements CompanyRepositoryService {
     }
 
     @Override
+    public Optional<Company> findByCompanyId(String companyId) {
+        return companyRepository.findByCompanyId(companyId);
+    }
+
+    @Override
     public GetLayoutDto findByLayoutId(String layoutId) {
         return companyRepository.findByLayoutId(layoutId);
     }

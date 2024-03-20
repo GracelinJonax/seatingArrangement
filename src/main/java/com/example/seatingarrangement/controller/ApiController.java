@@ -1,6 +1,6 @@
 package com.example.seatingarrangement.controller;
 
-import com.example.seatingarrangement.api.seatingArrangementApi;
+import com.example.seatingarrangement.api.SeatingArrangementApi;
 import com.example.seatingarrangement.dto.CompanyDto;
 import com.example.seatingarrangement.dto.LayoutDto;
 import com.example.seatingarrangement.dto.SeatingDto;
@@ -11,13 +11,12 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.multipart.MultipartFile;
 
 @RestController
 @CrossOrigin
-public class apiController implements seatingArrangementApi {
+public class ApiController implements SeatingArrangementApi {
     private final SeatingService seatingService;
-    public apiController(SeatingService seatingService){
+    public ApiController(SeatingService seatingService){
         this.seatingService=seatingService;
     }
     @Override

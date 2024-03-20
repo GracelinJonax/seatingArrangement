@@ -9,7 +9,9 @@ import com.example.seatingarrangement.model.Type;
 import com.example.seatingarrangement.repository.AllocationRepository;
 import com.example.seatingarrangement.repository.CompanyRepository;
 import com.example.seatingarrangement.repository.TeamRepository;
+import com.example.seatingarrangement.repository.service.AllocationRepositoryService;
 import com.example.seatingarrangement.repository.service.CompanyRepositoryService;
+import com.example.seatingarrangement.repository.service.TeamRepositoryService;
 import com.example.seatingarrangement.service.SeatingService;
 
 import lombok.extern.slf4j.Slf4j;
@@ -35,15 +37,19 @@ public class SeatingServiceImpl implements SeatingService {
     private final CompanyRepositoryService companyRepositoryService;
     private final ModelMapper modelMapper;
     private final TeamRepository teamRepository;
+    private final TeamRepositoryService teamRepositoryService;
     private final AllocationRepository allocationRepository;
+    private final AllocationRepositoryService allocationRepositoryService;
 
     public SeatingServiceImpl(CompanyRepository companyRepository, CompanyRepositoryService companyRepositoryService, ModelMapper modelMapper,
-                              TeamRepository teamRepository, AllocationRepository allocationRepository) {
+                              TeamRepository teamRepository, TeamRepositoryService teamRepositoryService, AllocationRepository allocationRepository, AllocationRepositoryService allocationRepositoryService) {
         this.companyRepository = companyRepository;
         this.companyRepositoryService = companyRepositoryService;
         this.modelMapper = modelMapper;
         this.teamRepository = teamRepository;
+        this.teamRepositoryService = teamRepositoryService;
         this.allocationRepository = allocationRepository;
+        this.allocationRepositoryService = allocationRepositoryService;
     }
 
     @Override
@@ -51,7 +57,7 @@ public class SeatingServiceImpl implements SeatingService {
         return companyRepositoryService.findByLayoutId(layoutId).getDefaultLayout();
     }
     Company isValid(LayoutDto layoutDto){
-        Optional<Company> company=companyRepository.findById(layoutDto.getCompanyId());
+        Optional<Company> company=companyRepositoryService.findByCompanyId(layoutDto.getCompanyId());
         if(company.isEmpty())
             throw new BadRequestException("company not present");
         if(layoutDto.getLayoutId()==null&&layoutDto.getDefaultLayout()==null)
@@ -124,6 +130,7 @@ public class SeatingServiceImpl implements SeatingService {
             defaultLayout.setTotalSpace(findTotalSpace(layout));
             defaultLayoutList.add(defaultLayout);
         }
+        company.setCompanyId(UUID.randomUUID().toString());
         company.setCompanyLayout(defaultLayoutList);
         return companyRepository.save(company);
     }
@@ -139,17 +146,28 @@ public class SeatingServiceImpl implements SeatingService {
             throw new BadRequestException("not sufficient Spaces");
         }
         Allocation allocation = new Allocation();
+        allocation.setAllocationId(UUID.randomUUID().toString());
         List<Team.TeamInfo> teamList = new ArrayList<>();
         String teamId;
-//        teamList.addAll(teamObjectDto.getTeamDtoList().forEach(a->modelMapper.map(a, Team.TeamInfo.class)));
-        TeamOutputDto team1=teamRepository.findTeamsByTeamInfo(teamObjectDto.getTeamDtoList(),teamObjectDto.getTeamDtoList().size());
-        System.out.println(team1+"   aaaa");
+        Team team1=teamRepositoryService.findTeamsByTeamInfo(teamObjectDto.getTeamDtoList(),teamObjectDto.getTeamDtoList().size());
         if(team1!=null){
-            teamId=teamObjectDto.getTeamId();
-//            teamList=team1.getTeams();
+            teamId=team1.getTeamId();
+            Type type;
+            teamList=teamRepositoryService.findByTeamId(teamId).get().getTeams();
+            if(teamObjectDto.getPreference()!=0){
+            if(teamObjectDto.getPreference()==1) {
+                type= Type.DESC;
+            }
+            else
+                type= Type.ASC;
+            Allocation allocatedLayout=allocationRepositoryService.findByDefaultLayoutIdAndAllocationType(teamObjectDto.getLayoutId(),type);
+            if (allocatedLayout!=null)
+                throw new BadRequestException("already Selected");
+            }
         }
         else {
         Team team=new Team();
+        team.setTeamId(UUID.randomUUID().toString());
         int total = 0;
         for (TeamObjectDto.TeamDto teams : teamObjectDto.getTeamDtoList()) {
             Team.TeamInfo teamInfo = new Team.TeamInfo();
@@ -300,9 +318,7 @@ public class SeatingServiceImpl implements SeatingService {
                 return true;
             if (findSteps(x + 1, y, resultx, resulty, steps + 1, teamCode))
                 return true;
-            if (findSteps(x, y - 1, resultx, resulty, steps + 1, teamCode))
-                return true;
-            return false;
+            return findSteps(x, y - 1, resultx, resulty, steps + 1, teamCode);
         }
         return false;
     }

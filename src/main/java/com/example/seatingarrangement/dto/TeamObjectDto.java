@@ -11,6 +11,7 @@ public class TeamObjectDto {
     private String teamId;
     private List<TeamDto> teamDtoList;
     private int preference;
+    private int algorithmPref;
     @Data
     public static class TeamDto{
     private String teamName;

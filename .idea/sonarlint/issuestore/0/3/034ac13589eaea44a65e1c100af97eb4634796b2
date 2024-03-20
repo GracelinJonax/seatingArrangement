@@ -1,16 +1,13 @@
 
-„	java:S125"<This block of commented-out lines of code should be removed.(š¯ñÂùÿÿÿÿ8·ŞŒÕå1J$02e9a286-6832-4cde-93ac-aca2ade4d4de
-n	java:S106’"+Replace this use of System.out by a logger.(ìœÊâ8à·…Õå1J$d403aeba-04bc-4543-a60e-6177235ce01e
-~	java:S125•"<This block of commented-out lines of code should be removed.(ˆØÔR8ò¬Õå1J$4b8bc7ac-e2bd-4e9c-92d2-bdbdbf28f3e6
-z
-java:S2696´"6Make the enclosing method "static" or remove this set.(ëÀ»¡8å·…Õå1J$a05875f6-40d7-4cad-8edc-0ef73692c6fa
-z
-java:S2696µ"6Make the enclosing method "static" or remove this set.(¬‡ñŒ8å·…Õå1J$1f41b130-fdb8-4445-9b6d-0caf27cc3948
-„	java:S125½"<This block of commented-out lines of code should be removed.(ùÆ¯ùÿÿÿÿ8è·…Õå1J$7d10bf94-f097-46d5-9c99-b3ea10705931
-	java:S125É"<This block of commented-out lines of code should be removed.(×õ¦ï8é·…Õå1J$e23f947d-3222-4859-95ad-5cb5fb0acd77
 –
-java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ñ¼„À8ë·…Õå1J$db7767b0-bd4d-4761-9215-238d2633a5d7
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(•¾Ûñ8ï§ÒÛå1J$6a069164-4e73-41f6-89e3-1d435bf96bc4
+z
+java:S2696Æ"6Make the enclosing method "static" or remove this set.(ëÀ»¡8ÊáÑÛå1J$bbaff4ac-095b-4a18-be4f-344421156a2e
+z
+java:S2696Ç"6Make the enclosing method "static" or remove this set.(¬‡ñŒ8ÊáÑÛå1J$1e4b39b7-eca9-495b-a65d-6961f50782fe
+„	java:S125Ï"<This block of commented-out lines of code should be removed.(ùÆ¯ùÿÿÿÿ8ËáÑÛå1J$f49ef1c1-f514-4d9f-8b63-dfa93f5ff7cd
+	java:S125Û"<This block of commented-out lines of code should be removed.(×õ¦ï8ÌáÑÛå1J$fdd01065-d4b3-496b-8cf3-9c144103a810
 –
-java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(õÛŒ8î·…Õå1J$258d1779-bca5-4d90-bfdd-d5d952883664
-Š
-java:S1126¯"AReplace this if-then-else statement by a single return statement.(ÊÍµøÿÿÿÿ8ğ·…Õå1J$209b2ec1-c715-4392-b9d3-6f01b6c5d786
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ñ¼„À8ÍáÑÛå1J$b464aa2e-21dd-4696-b3a5-4d6195c052f4
+–
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(õÛŒ8ĞáÑÛå1J$a18f0654-81ff-45ca-9b6a-993bd0f965da

@@ -6,13 +6,12 @@ import org.springframework.data.mongodb.repository.Aggregation;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
-import java.util.List;
 import java.util.Optional;
 
 @Repository
 public interface CompanyRepository extends MongoRepository<Company,String> {
     Optional<Company> findByCompanyName(String companyName);
-//    List<Company>findByDeletedFalse();
+    Optional<Company> findByCompanyId(String companyId);
     @Aggregation(pipeline = {"{'$unwind': {'path': '$companyLayout'}}",
     "{'$match': {'companyLayout.layoutId': ?0}}",
      "{'$addFields': {'totalSpace': '$companyLayout.totalSpace','defaultLayout': '$companyLayout.companyLayout'}}",

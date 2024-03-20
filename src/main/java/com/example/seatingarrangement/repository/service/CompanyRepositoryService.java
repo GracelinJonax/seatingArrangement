@@ -9,5 +9,6 @@ import java.util.Optional;
 @Service
 public interface CompanyRepositoryService {
     Optional<Company> findByCompanyName(String companyName);
+    Optional<Company> findByCompanyId(String companyId);
     GetLayoutDto findByLayoutId(String layoutId);
 }

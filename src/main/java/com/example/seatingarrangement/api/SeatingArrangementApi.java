@@ -7,10 +7,9 @@ import com.example.seatingarrangement.dto.TeamObjectDto;
 import com.example.seatingarrangement.model.Company;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.multipart.MultipartFile;
 
 @RestController
-public interface seatingArrangementApi {
+public interface SeatingArrangementApi {
     @PostMapping("/saveCompany")
     ResponseEntity<Company> saveCompany(@RequestBody CompanyDto companyDto);
     @PostMapping("/updateLayout")

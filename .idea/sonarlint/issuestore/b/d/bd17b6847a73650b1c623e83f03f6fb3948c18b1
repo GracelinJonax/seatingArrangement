@@ -1,9 +1,11 @@
 
+c
+java:S1128"FRemove this unused import 'com.example.seatingarrangement.model.Team'.(ÕµûĞ8¬í¬Ùå1
 ‡
-java:S1128"DRemove this unused import 'org.hibernate.annotations.UuidGenerator'.(»ª‹8õúÎÕå1J$482262cc-c2df-43fc-9fd2-0ce19d3f4c7f
+java:S1128"DRemove this unused import 'org.hibernate.annotations.UuidGenerator'.(»ª‹8õúÎÕå1J$54681680-9d38-4ba6-b625-4cbdaa62dd31
 ”
-java:S1128"LRemove this unused import 'org.springframework.data.annotation.CreatedDate'.(Éå¥°ÿÿÿÿÿ8õúÎÕå1J$4ac86e42-e382-4eb3-9c0b-565c4744ba0f
+java:S1128"LRemove this unused import 'org.springframework.data.annotation.CreatedDate'.(Éå¥°ÿÿÿÿÿ8õúÎÕå1J$adff317c-cc18-4048-b4da-86f1189d4556
 ‹
-java:S1128"CRemove this unused import 'org.springframework.data.annotation.Id'.(áŠ¿¸ıÿÿÿÿ8õúÎÕå1J$19d21132-519c-4ce1-9f03-6ea04d82ca1b
+java:S1128"CRemove this unused import 'org.springframework.data.annotation.Id'.(áŠ¿¸ıÿÿÿÿ8õúÎÕå1J$08f8e2f6-c756-4faa-948e-0896c658e787
 ”
-java:S1128	"QRemove this unused import 'org.springframework.data.annotation.LastModifiedDate'.(Æğ¼‰8õúÎÕå1J$16ce75fe-ec01-4060-a4e0-3c6223239abc
+java:S1128	"QRemove this unused import 'org.springframework.data.annotation.LastModifiedDate'.(Æğ¼‰8õúÎÕå1J$aea04c90-7b7f-4f28-829e-4aab97262055

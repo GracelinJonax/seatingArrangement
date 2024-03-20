@@ -53,3 +53,9 @@ o
 ?src/main/java/com/example/seatingarrangement/dto/LayoutDto.java,4/f/4fd447192fa61b5999cf6ccf3135949e3266b0ca
 s
 Csrc/main/java/com/example/seatingarrangement/dto/TeamOutputDto.java,b/d/bd17b6847a73650b1c623e83f03f6fb3948c18b1
+{
+Ksrc/main/java/com/example/seatingarrangement/api/SeatingArrangementApi.java,8/6/8609593f13480457bce1ae0a0156e1c67a5e6e1b
+z
+Jsrc/main/java/com/example/seatingarrangement/controller/ApiController.java,1/2/127bbc36d9f88c2b2a25780d046add87723ead99
+l
+<src/main/java/com/example/seatingarrangement/dto/sample.java,b/2/b2ea03bcce97dbd39dd4c657843f206a342b1556
