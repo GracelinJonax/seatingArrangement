@@ -3,10 +3,6 @@
 mvnw.cmd,1/f/1f1763f358c257ea3515417352b82b0165647ad1
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-{
-Ksrc/main/java/com/example/seatingarrangement/api/seatingArrangementApi.java,1/5/15b5225bae3bbb68c1c7534032a90d10698db251
-z
-Jsrc/main/java/com/example/seatingarrangement/controller/apiController.java,6/9/698a41f650e8415c694568880f698ee6cd982417
 p
 @src/main/java/com/example/seatingarrangement/dto/SeatingDto.java,9/a/9a6d394977cfe1ad5917abc3d4288c070c13ccae
 x
@@ -51,11 +47,7 @@ r
 Bsrc/main/java/com/example/seatingarrangement/dto/GetLayoutDto.java,8/5/85cb7dca9829a3fc89d1ee33fb41799d8ce32f47
 o
 ?src/main/java/com/example/seatingarrangement/dto/LayoutDto.java,4/f/4fd447192fa61b5999cf6ccf3135949e3266b0ca
-s
-Csrc/main/java/com/example/seatingarrangement/dto/TeamOutputDto.java,b/d/bd17b6847a73650b1c623e83f03f6fb3948c18b1
 {
 Ksrc/main/java/com/example/seatingarrangement/api/SeatingArrangementApi.java,8/6/8609593f13480457bce1ae0a0156e1c67a5e6e1b
 z
 Jsrc/main/java/com/example/seatingarrangement/controller/ApiController.java,1/2/127bbc36d9f88c2b2a25780d046add87723ead99
-l
-<src/main/java/com/example/seatingarrangement/dto/sample.java,b/2/b2ea03bcce97dbd39dd4c657843f206a342b1556
