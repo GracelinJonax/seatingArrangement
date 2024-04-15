@@ -1,0 +1,25 @@
+version: '2'
+
+services:
+  app:
+    ports:
+      - 8081:8081
+    image: 'spring-seating'
+    build:
+      context: .
+    container_name: app
+    depends_on:
+      - db
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/seating
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: Grace@2002
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
+          
+  db:
+    image: 'postgres'
+    container_name: db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Grace@2002
+      POSTGRES_DB: seating
