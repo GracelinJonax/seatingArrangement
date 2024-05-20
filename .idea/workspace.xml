@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c197a90-afa2-41e9-bebb-5101d730e9b4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/configuration/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/configuration/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/SeatingArrangementApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/SeatingArrangementApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/CompanyDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/CompanyDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/GetLayoutDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/GetLayoutDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/LayoutDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/LayoutDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/TeamObjectDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/TeamObjectDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/exception/BadRequestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/exception/BadRequestException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/AllocationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/AllocationRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/CompanyRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/CompanyRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/TeamRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/TeamRepository.class" afterDir="false" />
-    </list>
+    <list default="true" id="7c197a90-afa2-41e9-bebb-5101d730e9b4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +58,7 @@
     "Spring Boot.SeatingArrangementApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/divum/Documents/MyProjects/seatingArrangement",
+    "last_opened_file_path": "/home/divum/Documents/intern/Intern/treasureGames",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,8 +86,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -135,6 +119,7 @@
       <workItem from="1713156812520" duration="5687000" />
       <workItem from="1713181515108" duration="3818000" />
       <workItem from="1713244579251" duration="3279000" />
+      <workItem from="1716187791175" duration="104000" />
     </task>
     <servers />
   </component>
