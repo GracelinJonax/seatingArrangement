@@ -141,3 +141,10 @@ Hsrc/main/java/com/example/seatingarrangement/repository/SessionRepo.java,8/f/8
 Ksrc/main/java/com/example/seatingarrangement/repository/TeamRepository.java,4/2/421a5d4bf7ea1b2da14147cd801fbe2a65614794
 v
 Fsrc/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java,5/4/547ca8387025f18ef3e930c9b7209f3c1c51cf8e
+R
+"src/main/resources/application.yml,a/6/a6d8b8556fee0e03112ce2bf34b8cb27a7dc9e58
+B
+docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
+:
+
+Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4

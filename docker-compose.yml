@@ -10,6 +10,7 @@ services:
     container_name: app
     depends_on:
       - db
+      - mongo
     environment:
       SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/seating
       SPRING_DATASOURCE_USERNAME: postgres
@@ -23,3 +24,8 @@ services:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: Grace@2002
       POSTGRES_DB: seating
+  mongo:
+    image: 'mongo'
+    container_name: mongo
+    ports:
+      - 27017:27017

@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c197a90-afa2-41e9-bebb-5101d730e9b4" name="Changes" comment="" />
+    <list default="true" id="7c197a90-afa2-41e9-bebb-5101d730e9b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/configuration/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/configuration/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/SeatingArrangementApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/SeatingArrangementApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/CompanyDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/CompanyDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/GetLayoutDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/GetLayoutDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/LayoutDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/LayoutDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/TeamObjectDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/dto/TeamObjectDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/exception/BadRequestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/exception/BadRequestException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/AllocationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/AllocationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/CompanyRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/CompanyRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/TeamRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/seatingarrangement/repository/TeamRepository.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +44,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Krish1770/seating_arrangement.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:GracelinJonax/seatingArrangement.git&quot;,
     &quot;accountId&quot;: &quot;6e61837f-b3ee-4ca8-99a5-41dc52613edc&quot;
   }
 }</component>
@@ -47,27 +63,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.SeatingArrangementApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dynamic1&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/divum/Documents/MyProjects/seatingArrangement&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SeatingArrangementApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/divum/Documents/MyProjects/seatingArrangement",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="SeatingArrangementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="seating-arrangement" />
@@ -75,6 +91,12 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SharedIndexes">
@@ -111,6 +133,8 @@
       <workItem from="1712744357624" duration="2040000" />
       <workItem from="1712925025163" duration="2190000" />
       <workItem from="1713156812520" duration="5687000" />
+      <workItem from="1713181515108" duration="3818000" />
+      <workItem from="1713244579251" duration="3279000" />
     </task>
     <servers />
   </component>
@@ -190,6 +214,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/impl/BacktrackingImpl.java</url>
           <line>191</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/controller/CompanyController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/impl/CompanyServiceImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/filter/JWTAuthFilter.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/example/seatingarrangement/service/JWTService.java</url>
